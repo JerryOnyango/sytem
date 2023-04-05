@@ -1,2 +1,2 @@
 # sytem
-BMI system to display paerson health condition
+BMI system to display a person's health condition.
